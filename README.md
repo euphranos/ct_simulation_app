@@ -36,17 +36,20 @@ Enjoy exploring the capabilities of this CT image reconstruction application!
 
 Computed Tomography (CT) is a medical imaging technique that can create detailed cross-sectional images within the body. CT scans provide a three-dimensional perspective by combining images taken from different angles. This allows for a more precise examination of internal organs and tissues.
 
-![Screenshot_5](https://github.com/euphranos/ct_scan_app/assets/109268253/fb5a9ee8-350c-450b-9494-a0433c300e79)
+![Screenshot_5](https://github.com/euphranos/ct_simulation_app/assets/109268253/4d53918c-317f-4ef6-a20e-9ad124c768a2)
 
 ## Screenshots from app
-![Screenshot_1](https://github.com/euphranos/ct_scan_app/assets/109268253/b66b4d06-9c76-4e07-87b0-b8ca3a1821a1)
-![Screenshot_2](https://github.com/euphranos/ct_scan_app/assets/109268253/ae7fe988-9afc-490d-8d09-5fa3a354768e)
+![Screenshot_1](https://github.com/euphranos/ct_simulation_app/assets/109268253/3c52b192-8663-4d31-a424-599509b9059e)
+![Screenshot_2](https://github.com/euphranos/ct_simulation_app/assets/109268253/1ab97b03-5764-48c0-9b94-5a43271d256a)
 
 ## The value table represents the density, and thus the density of the matrix. It is color-coded and numbered based on density
-![Screenshot_3](https://github.com/euphranos/ct_scan_app/assets/109268253/7b392a57-cf80-430d-9c36-65ecf7f3d0b2)
+
+![Screenshot_3](https://github.com/euphranos/ct_simulation_app/assets/109268253/06f21ba0-e55b-426c-b6dd-48001f7c5aba)
 ## The image represents a structure of a CT (computed tomography) composed of X-rays and a detector. It simulates the tomography process based on user-input values such as rotation speed, range of rotation angles, and other factors
 The value table represents the density, and thus the density of the matrix. It is color-coded and numbered based on density
-![Screenshot_4](https://github.com/euphranos/ct_scan_app/assets/109268253/19d0b8b2-eb4b-43f1-b92d-f1386dd4758c)
+![Screenshot_4](https://github.com/euphranos/ct_simulation_app/assets/109268253/84c74bef-4807-4a0c-b955-d9fd30461a3d)
+
+
 
 ## How it works ? 
 
