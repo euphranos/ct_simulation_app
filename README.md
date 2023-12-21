@@ -38,7 +38,7 @@ Computed Tomography (CT) is a medical imaging technique that can create detailed
 
 ![Screenshot_5](https://github.com/euphranos/ct_scan_app/assets/109268253/fb5a9ee8-350c-450b-9494-a0433c300e79)
 
-
+## Screenshots from app
 ![Screenshot_1](https://github.com/euphranos/ct_scan_app/assets/109268253/b66b4d06-9c76-4e07-87b0-b8ca3a1821a1)
 ![Screenshot_2](https://github.com/euphranos/ct_scan_app/assets/109268253/ae7fe988-9afc-490d-8d09-5fa3a354768e)
 
@@ -49,6 +49,7 @@ The value table represents the density, and thus the density of the matrix. It i
 ![Screenshot_4](https://github.com/euphranos/ct_scan_app/assets/109268253/19d0b8b2-eb4b-43f1-b92d-f1386dd4758c)
 
 ## How it works ? 
+
 ![1](https://github.com/euphranos/ct_scan_app/assets/109268253/c2626b10-6ee2-4e76-8604-74b114b9c16a)
 ![2](https://github.com/euphranos/ct_scan_app/assets/109268253/7dfc62b1-b976-448c-bbc3-6f98346cde3a)
 ![3](https://github.com/euphranos/ct_scan_app/assets/109268253/f26bc988-96f8-415f-88df-b4581fafcc42)
