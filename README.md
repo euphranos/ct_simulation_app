@@ -52,11 +52,10 @@ The value table represents the density, and thus the density of the matrix. It i
 
 
 ## How it works ? 
-
-![1](https://github.com/euphranos/ct_scan_app/assets/109268253/c2626b10-6ee2-4e76-8604-74b114b9c16a)
-![2](https://github.com/euphranos/ct_scan_app/assets/109268253/7dfc62b1-b976-448c-bbc3-6f98346cde3a)
-![3](https://github.com/euphranos/ct_scan_app/assets/109268253/f26bc988-96f8-415f-88df-b4581fafcc42)
-![5](https://github.com/euphranos/ct_scan_app/assets/109268253/06ae53e5-afd8-4111-b68b-cc2791f688eb)
+![1](https://github.com/euphranos/ct_simulation_app/assets/109268253/577f3055-8572-48d7-8ca3-31544f0b8cdc)
+![2](https://github.com/euphranos/ct_simulation_app/assets/109268253/dd28858f-b19b-424a-9987-3284032e20c5)
+![3](https://github.com/euphranos/ct_simulation_app/assets/109268253/9db33b14-b3ab-42a5-92a1-b82fdb8ab36c)
+![5](https://github.com/euphranos/ct_simulation_app/assets/109268253/7d49ca45-fdd4-4e19-8411-d2c0442a1d62)
 
 
 
